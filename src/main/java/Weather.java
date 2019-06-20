@@ -1,4 +1,5 @@
 public class Weather {
-    public void weather() {
+    public boolean weather() {
+        return true;
     }
 }
